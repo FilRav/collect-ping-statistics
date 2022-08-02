@@ -10,3 +10,7 @@ Controllate data e ora della scritta: se ce ne sono un po' in sequenza (es. 6-8 
 
 - collect_ping_windows.bat <- per sistemi operativi windows
 - collect_ping_linux.bat <- per sistemi operativi linux (testato su ubuntu)
+
+Il programma è innocuo (crea un file di testo e non contiene virus, non crea rallentamenti di alcun tipo, ecc.).
+I file sono forniti "così com'è, senza nessuna garanzia implicita o esplicita", ecc. ecc.
+Non mi assumo alcuna responsabilità di nessun tipo.
